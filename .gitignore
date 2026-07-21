@@ -1,0 +1,21 @@
+## Node / Temp
+node_modules/
+/log
+/logs
+tmp/
+.cache/
+.history/
+
+## Build / TypeScript
+dist/
+build/
+out/
+*.tsbuildinfo
+
+## Environment / secrets
+.env
+
+## Misc
+/.npm/
+/.parcel-cache/
+/.pnp.cjs
