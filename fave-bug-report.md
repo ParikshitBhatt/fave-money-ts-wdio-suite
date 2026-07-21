@@ -36,11 +36,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** The contact's profile stays fully clickable, as if not yet a member — even though selecting it has no effect on the actual member list.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-user-is-able-add-same-user-in-group-again-and-again-without-error.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-user-is-able-add-same-user-in-group-again-and-again-without-error.mov" type="video/mp4">
 </video>
-[Video Link]("./bug-evidences/bug-evidences/fave-money-bug-user-is-able-add-same-user-in-group-again-and-again-without-error.mov")
+
 ---
 
 ## BUG-002
@@ -59,11 +60,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Count shown is incremented by 1 over the actual member count.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-incorrect-home-member-count.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-incorrect-home-member-count.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-incorrect-home-member-count.mov)
+
 ---
 
 ## BUG-003
@@ -82,11 +84,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Edit does not take effect.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-edit-transection-home.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-edit-transection-home.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-edit-transection-home.mov)
+
 ---
 
 ## BUG-004
@@ -105,11 +108,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Type does not update.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-update-transaction-type-in_group.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-update-transaction-type-in_group.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-user-is-unable-to-update-transaction-type-in_group.mov)
+
 ---
 
 ## BUG-005
@@ -129,11 +133,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Accepted and saved.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-supporting-illegal-characters-in-username.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-supporting-illegal-characters-in-username.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-supporting-illegal-characters-in-username.mov)
+
 ---
 
 ## BUG-006
@@ -151,11 +156,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Bottom overflow warning strip visible.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-bottom-overflow-issue-on-login-page.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-bottom-overflow-issue-on-login-page.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-bottom-overflow-issue-on-login-page.mov)
+
 ---
 
 ## BUG-007
@@ -174,11 +180,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Overflow warning visible at the bottom of the remove-member confirmation sheet.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-buttom-overflow-issue-in-group-member-remover.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-buttom-overflow-issue-in-group-member-remover.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-buttom-overflow-issue-in-group-member-remover.mov)
+
 ---
 
 ## BUG-008
@@ -198,11 +205,12 @@ Each entry follows the brief's required fields exactly: title, screen/area, step
 
 **Actual behaviour:** Picture doesn't update — confirmed still broken even after reload.
 
-**Evidence:** 
+**Evidence:** [Video Link](./bug-evidences/bug-evidences/fave-money-bug-edit-home-picture-not-working.mov)
+
 <video width="320" height="240" controls>
   <source src="./bug-evidences/bug-evidences/fave-money-bug-edit-home-picture-not-working.mov" type="video/mp4">
 </video>
-[Video Link](./bug-evidences/bug-evidences/fave-money-bug-edit-home-picture-not-working.mov)
+
 ---
 
 ## Figma deviations (visual/behavioural)
