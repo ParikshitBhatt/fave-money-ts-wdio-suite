@@ -1,7 +1,7 @@
 import type { Options } from '@wdio/types';
 
 export const sharedConfig: Partial<Options.Testrunner> = {
-  specs: ['./src/test/specs/**/onboarding-test.spec.ts'],
+  specs: ['./src/test/specs/**/*.spec.ts'],
   framework: 'mocha',
   mochaOpts: {
     ui: 'bdd',

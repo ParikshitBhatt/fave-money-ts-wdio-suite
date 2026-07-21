@@ -33,7 +33,7 @@ export const config: Options.Testrunner = {
         },
         deviceName: process.env.BS_DEVICE || 'Samsung Galaxy S23',
         osVersion: process.env.BS_OS_VERSION || '13.0',
-        projectName: 'MS Team Homes & Groups',
+        projectName: 'Fave Money',
         buildName: `QA regression build ${new Date().toISOString()}`,
         sessionName: 'Homes & Groups automation suite'
       },
